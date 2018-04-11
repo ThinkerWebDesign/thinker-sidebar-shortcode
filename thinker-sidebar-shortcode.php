@@ -10,7 +10,7 @@
  * @license           GPLv3
  *
  * @wordpress-plugin
- * Plugin Name:       Thinker Sidebar Shortcode
+ * Plugin Name:       Sidebar Shortcode
  * Plugin URI:        http://www.thinkerwebdesign.com/thinker-sidebar-shortcode-plugin/
  * Description:       Add sidebars to WP posts and pages via shortcodes.
  * Version:           1.0.0

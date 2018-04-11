@@ -1,4 +1,5 @@
-=== Thinker Sidebar Shortcode ===
+=== Sidebar Shortcode ===
+Contributors: thinkerwebdesign
 Tags: sidebar shortcode, sidebar, shortcode, widget area, widget area shortcode, shortcode for sidebar, sidebar in page, sidebar in post, sidebar via shortcode, sidebar by shortcode, sidebar from shortcode, sidebar per shortcode
 Donate link: http://www.thinkerwebdesign.com/thinker-sidebar-shortcode-plugin/
 Requires at least: 3.4+
